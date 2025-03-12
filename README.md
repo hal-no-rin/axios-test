@@ -27,7 +27,8 @@ npm start
 
 ## 使用技術
 
-- TypeScript
-- Node.js
-- Axios
+- TypeScript v5.3.3
+- Node.js v20.11.24（@types/node）
+- Axios v1.8.2
+- ts-node v10.9.2
 - JSONPlaceholder API
